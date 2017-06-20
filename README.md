@@ -14,8 +14,7 @@ To begin using this template, choose one of the following options to get started
 Have a bug or an issue with this template? [Open a new issue](https://github.com/entercloud/every-virtual-action/issues) here on GitHub or leave a comment on the [Cloud page](http://facebook.com/entercloud).
 
 ## Creator
-
-Cloud command center was created by and is maintained by **[Andrew S Thompson](http://facebook.com/mrinternet305)**, Owner of [Entercloud LLC](http://entercloud.info).
+EVA was created by and is maintained by **[Andrew S Thompson](http://facebook.com/mrinternet305)**, Owner of [Entercloud LLC](http://entercloud.info).
 
 * https://twitter.com/andrewpsp
 * https://github.com/andrewpsp
